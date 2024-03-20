@@ -1,4 +1,9 @@
 The time or name of your cohort:
 
-
+QA classmates
 First names of all your cohort classmates:
+Nyle
+Karen
+Jace
+Sam
+Eduardo
