@@ -2,7 +2,7 @@ The time or name of your cohort:
 
 QA classmates
 First names of all your cohort classmates:
-Nyle
+Nyle Larsen
 Karen
 Jace
 Sam
